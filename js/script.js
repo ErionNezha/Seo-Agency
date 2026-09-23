@@ -9,13 +9,12 @@ menu.onclick = () =>{
 let themeBtn = document.querySelector('#theme-btn');
 
 themeBtn.onclick = () =>{
-    themeBtn.classList.toggle('fa-sun');
+    let isDark = themeBtn.classList.toggle('fa-sun');
+    themeBtn.classList.toggle('fas', isDark);
+    themeBtn.classList.toggle('far', !isDark);
+    themeBtn.classList.toggle('fa-moon', !isDark);
 
-    if(themeBtn.classList.contains('fa-sun')){
-        document.body.classList.add('active');
-    }else{
-        document.body.classList.remove('active');
-    }
+    document.body.classList.toggle('active', isDark);
 };
 
 window.onscroll = () =>{
