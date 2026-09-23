@@ -1,5 +1,7 @@
 # Agjenci SEO
 
+Created by **Erion Nezha**
+
 ![Screenshot](screenshot.png)
 
 Faqe moderne dhe responsive për një agjenci SEO / marketingu digjital — e përshtatur plotësisht në gjuhën shqipe. Përfshin seksione për kryefaqen, shërbimet, punët, çmimet, kontaktin, buletinin dhe këmbën e faqes, me modalitet të errët dhe dizajn plotësisht responsive.
@@ -22,11 +24,13 @@ Faqe moderne dhe responsive për një agjenci SEO / marketingu digjital — e p�
 
 ## 📄 Licenca
 
-Ky projekt është nën licencën MIT — shihni skedarin [LICENSE](LICENSE).
+© 2026 Erion Nezha. All rights reserved — shihni skedarin [LICENSE](LICENSE).
 
 ---
 
 # SEO Agency
+
+Created by **Erion Nezha**
 
 ![Screenshot](screenshot.png)
 
@@ -50,4 +54,4 @@ A modern, responsive website for an SEO / digital marketing agency — fully loc
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
+© 2026 Erion Nezha. All rights reserved — see the [LICENSE](LICENSE) file.
